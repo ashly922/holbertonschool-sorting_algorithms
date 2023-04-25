@@ -1,1 +1,1 @@
-# holbertonschool-sorting_algorithms
+This repo contains practice tasks pertaining to algorithm sorting.
